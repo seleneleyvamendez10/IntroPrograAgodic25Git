@@ -9,7 +9,7 @@ letras_correctas = ['_'] * len(palabra_secreta) # creo arreglo de ['_'] multipli
 #print(letras_adivinadas)
 
 letras_incorrectas = []
-vidas = 3 # tres intentos maximos (vidas)
+vidas = 3 #intentos
 
 band_juego = False
 
